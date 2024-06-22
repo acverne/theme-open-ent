@@ -1,0 +1,37 @@
+Bonjour {{firstName}}, <br />
+<br />
+
+{{! Utilisateurs qui n'ont pas encore activé leur compte }}
+{{#activationCode}}
+  Ceci est un e-mail généré automatiquement qui contient vos informations de première connexion à l'ENT. <br />
+  <br />
+  La première connexion s'effectue sur <a href="{{host}}://{{hostname}}/auth/login">{{host}}://{{hostname}}/auth/login</a>. <br />
+  <br />
+  Une première étape indispensable vous permettra de personnaliser vos informations de connexion. <br />
+  <br />
+  Munissez vous de votre adresse e-mail et des informations ci-dessous : <br />
+  <br />
+  <strong>Identifiant :</strong> {{login}} <br />
+  <strong>Code d'activation :</strong> {{activationCode}} <br />
+  <br />
+  Pour sécuriser vos accès, il vous sera demandé de choisir un nouveau mot de passe et d'indiquer votre adresse e-mail. <br />
+{{/activationCode}}
+
+{{! Utilisateurs qui ont activé leur compte }}
+{{^activationCode}}
+  Ceci est un e-mail généré automatiquement qui contient vos informations de connexion à l'ENT. <br />
+  <br />
+  Sachant que vous possédez déjà un compte sur l'ENT, votre identifiant est rappelé ci-contre : <i>{{login}}</i>. <br />
+  <br />
+  Si vous ne vous souvenez pas de votre mot de passe, vous pouvez en définir un nouveau en suivant les instructions ci-dessous : <br />
+  <ul>
+    <li>Rendez-vous à l'adresse <a href="{{host}}://{{hostname}}">{{host}}://{{hostname}}</a> et cliquez sur « Mot de passe oublié ».</li>
+    <li>Saisissez votre identifiant puis cliquez sur « Envoyer ».</li>
+  </ul>
+  <br />
+  Un e-mail sera envoyé à l'adresse que vous avez saisie lors de l'activation de votre compte. Cliquez ensuite sur le lien dans l'e-mail reçu pour définir votre nouveau mot de passe. <br />
+{{/activationCode}}
+
+Nous vous recommandons de mélanger chiffres, lettres, majuscules, minuscules et caractères spéciaux lors du choix de votre mot de passe. <br />
+<br />
+Bonne navigation ! <br />
