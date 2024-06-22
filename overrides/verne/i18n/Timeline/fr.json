@@ -1,0 +1,5 @@
+{
+  "timeline.mail.accent.bg": "background-color: #FD332E;",
+  "timeline.mail.accent.border": "border-color: #FD332E;",
+  "timeline.mail.logo.src": "{{#host}}/assets/themes/verne2d/img/illustrations/logo.png{{/host}}"
+}
