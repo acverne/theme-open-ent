@@ -43,7 +43,7 @@
   "timeline.mail.subfooter.link.text": "cliquez ici",
   "timeline.mail.subfooter.link": "{{#host}}/userbook/mon-compte{{/host}}",
   "timeline.mail.text.color": "color: #FFF;",
-  "timeline.mail.title.color":"color: #F9F9F9;",
+  "timeline.mail.title.color":"color: #FF8500;",
   "timeline.weekly.mail.action.text": "Voir les nouveautés",
   "timeline.weekly.mail.subject.bold": "nouveautés de la semaine",
   "timeline.weekly.mail.subject.end": "sur l'ENT",
