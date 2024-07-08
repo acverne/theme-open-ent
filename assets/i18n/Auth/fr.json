@@ -16,7 +16,7 @@
   "mail.reset.pw.subject": "Réinitialisation de votre mot de passe",
   "mail.reset.id.subject": "Rappel de votre identifiant de connexion",
   "password.errors": "Votre mot de passe doit contenir au moins 6 caractères, dont une majuscule, une minuscule et un chiffre ou un caractère spécial",
-  "password.recommandations": "Il est recommandé de mélanger majuscules, minuscules, chiffres et caractères spéciaux."
+  "password.recommandations": "Il est recommandé de mélanger majuscules, minuscules, chiffres et caractères spéciaux.",
   "password.rules.activation": "Votre mot de passe doit contenir au moins un caractère spécial, une lettre minuscule, une lettre majuscule et avoir une longueur minimale de 6 caractères.",
   "password.rules.reset": "Votre mot de passe doit contenir au moins un caractère spécial, une lettre minuscule, une lettre majuscule et avoir une longueur minimale de 6 caractères. Il doit aussi être différent des précédents mots de passe déjà utilisés."
 }
