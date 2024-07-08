@@ -13,4 +13,5 @@ for directory in assets/i18n assets/img/smileys assets/js overrides template; do
   cp -R /tmp/verne-theme-open-ent/$directory/ ./theme-open-ent/
 done
 
+rm -rf /tmp/verne-theme-open-ent
 echo "Done."
