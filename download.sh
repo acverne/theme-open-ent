@@ -9,8 +9,8 @@ git clone https://github.com/acverne/theme-open-ent /tmp/verne-theme-open-ent
 echo "Cloned the two repositories."
 
 for directory in assets/i18n assets/img/smileys assets/js overrides template; do
-  rm -rf ./theme-open-ent/$directory/
-  cp -R /tmp/verne-theme-open-ent/$directory/ ./theme-open-ent/
+  echo "rm -rf ./theme-open-ent/$directory/"
+  echo "cp -R /tmp/verne-theme-open-ent/$directory/ ./theme-open-ent/"
 done
 
 rm -rf /tmp/verne-theme-open-ent
