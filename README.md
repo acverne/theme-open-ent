@@ -11,10 +11,10 @@ Ensuite, tout dépend de si vous voulez compiler des modifications personnalisé
 
 * Sans personnalisations :
 ```
-./build.sh clean init build
+bash build.sh clean init build
 ```
 
 * Avec personnalisations :
 ```
-./build.sh --override="(le nom du dossier dans overrides/ tel quel)" clean init build
+bash build.sh --override="(le nom du dossier dans overrides/ tel quel)" clean init build
 ```
