@@ -8,6 +8,6 @@ git clone https://github.com/open-ent-ng/theme-open-ent
 git clone https://github.com/acverne/theme-open-ent /tmp/verne-theme-open-ent
 echo "Cloned the two repositories."
 
-cp -vR /tmp/verne-theme-open-ent/{assets,overrides,template} ./theme-open-ent/
+cp -TR /tmp/verne-theme-open-ent/{assets,overrides,template} ./theme-open-ent/
 rm -R /tmp/verne-theme-open-ent
 echo "Done."
