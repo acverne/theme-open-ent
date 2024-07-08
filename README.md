@@ -4,3 +4,17 @@ Vous pouvez exécuter la commande suivante dans votre terminal afin de pouvoir c
 ```
 curl -sSL https://raw.githubusercontent.com/acverne/theme-open-ent/main/download.sh | bash
 ```
+
+# Comment compiler le projet ?
+Si vous souhaitez compiler le projet, il vous faudra impérativement Docker.
+Ensuite, tout dépend de si vous voulez compiler des modifications personnalisées ou non.
+
+* Sans personnalisations :
+```
+./build.sh clean init build
+```
+
+* Avec personnalisations :
+```
+./build.sh --override="(le nom du dossier dans overrides/ tel quel)" clean init build
+```
