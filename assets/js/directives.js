@@ -1,5 +1,3 @@
-console.log("ENT additionnal directives");
-
 var addDirectives = function (module, done) {
   // We have to remove existing directives we want to replace, otherwise it breaks.
   module.config(function ($provide) {
