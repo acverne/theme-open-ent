@@ -4,7 +4,7 @@
   "smartbanner.android.store": "Google Play",
   "smartbanner.android.uri": "https://play.google.com/store/apps/details?id=com.ode.neo",
   "smartbanner.description": "Le réseau éducatif qui tient dans la poche !",
-  "smartbanner.icon.uri": "/assets/themes/goldeduc2d/overrides/img/illustrations/neo-pocket.png",
+  "smartbanner.icon.uri": "/assets/themes/edumax2d/overrides/img/illustrations/neo-pocket.png",
   "smartbanner.ios.store": "App Store",
   "smartbanner.ios.uri": "https://apps.apple.com/fr/app/neo-pocket/id1458097439",
   "smartbanner.name": "NEO Pocket",
