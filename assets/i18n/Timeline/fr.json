@@ -32,7 +32,7 @@
   "timeline.mail.footer.color": "color: #999;",
   "timeline.mail.footer.link": "{{#host}}{{/host}}",
   "timeline.mail.footer.link.text": "À bientôt sur l'ENT !",
-  "timeline.mail.logo.src": "{{#host}}/assets/themes/goldeduc2d/img/illustrations/logo.png{{/host}}",
+  "timeline.mail.logo.src": "{{#host}}/assets/themes/edumax/img/illustrations/logo.png{{/host}}",
   "timeline.mail.logo.width": "161",
   "timeline.mail.logo.height": "54",
   "timeline.mail.main": "background-color: #FFF;",
