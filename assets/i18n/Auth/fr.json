@@ -12,7 +12,7 @@
   "email.regards": "",
   "email.reset.infos": "Si vous n'êtes pas à l'origine de cette demande, vous pouvez ignorer cet e-mail.",
   "email.reset.pw.infos": "Vous avez demandé la réinitialisation de votre mot de passe pour vous connecter à l'ENT.",
-  "email.signature": "L'équipe Goldeduc",
+  "email.signature": "L'équipe EduMax",
   "mail.reset.pw.subject": "Réinitialisation de votre mot de passe",
   "mail.reset.id.subject": "Rappel de votre identifiant de connexion",
   "password.errors": "Votre mot de passe doit contenir au moins 6 caractères, dont une majuscule, une minuscule et un chiffre ou un caractère spécial",
