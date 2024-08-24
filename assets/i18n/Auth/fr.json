@@ -2,7 +2,7 @@
   "auth.charter": "/assets/cgu/Charte_ENT.pdf",
   "auth.back.to.login": "Retour à l'écran d'accueil",
   "auth.forgot.header": "Besoin d'aide ?",
-  "auth.forgot.text": "Foournissez simplement les informations suivantes et nous vous aiderons à accéder à votre compte.",
+  "auth.forgot.text": "Fournissez simplement les informations suivantes et nous vous aiderons à accéder à votre compte.",
   "auth.lost.id": "Vous avez perdu votre identifiant ?",
   "auth.lost.id.text": "Saisissez votre e-mail pour recevoir votre identifiant.",
   "auth.lost.password": "Vous avez perdu votre mot de passe ?",
