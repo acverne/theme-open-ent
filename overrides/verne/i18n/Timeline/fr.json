@@ -1,5 +1,7 @@
 {
+  "timeline.mail.accent.bg": "background-color: #FD332E;",
+  "timeline.mail.accent.bgcolor": "#FD332E",
   "timeline.mail.header.bg": "background-color: #FD332E;",
   "timeline.mail.header.bgcolor": "#FD332E",
-  "timeline.mail.logo.src": "{{#host}}/assets/themes/verne2d/img/illustrations/logo.png{{/host}}"
+  "timeline.mail.logo.src": "{{#host}}/assets/themes/verne/img/illustrations/logo.png{{/host}}"
 }
